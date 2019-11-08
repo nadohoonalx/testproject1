@@ -1,0 +1,12 @@
+C:\Users\DohoonNa\source\repos\인간관계프로젝트\인간관계프로젝트\bin\Debug\인간관계프로젝트.exe.config
+C:\Users\DohoonNa\source\repos\인간관계프로젝트\인간관계프로젝트\bin\Debug\인간관계프로젝트.exe
+C:\Users\DohoonNa\source\repos\인간관계프로젝트\인간관계프로젝트\bin\Debug\인간관계프로젝트.pdb
+C:\Users\DohoonNa\source\repos\인간관계프로젝트\인간관계프로젝트\obj\Debug\인간관계프로젝트.csprojAssemblyReference.cache
+C:\Users\DohoonNa\source\repos\인간관계프로젝트\인간관계프로젝트\obj\Debug\인간관계프로젝트.Form1.resources
+C:\Users\DohoonNa\source\repos\인간관계프로젝트\인간관계프로젝트\obj\Debug\인간관계프로젝트.Form2.resources
+C:\Users\DohoonNa\source\repos\인간관계프로젝트\인간관계프로젝트\obj\Debug\인간관계프로젝트.Properties.Resources.resources
+C:\Users\DohoonNa\source\repos\인간관계프로젝트\인간관계프로젝트\obj\Debug\인간관계프로젝트.csproj.GenerateResource.cache
+C:\Users\DohoonNa\source\repos\인간관계프로젝트\인간관계프로젝트\obj\Debug\인간관계프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\DohoonNa\source\repos\인간관계프로젝트\인간관계프로젝트\obj\Debug\인간관계프로젝트.exe
+C:\Users\DohoonNa\source\repos\인간관계프로젝트\인간관계프로젝트\obj\Debug\인간관계프로젝트.pdb
+C:\Users\DohoonNa\source\repos\인간관계프로젝트\인간관계프로젝트\obj\Debug\인간관계프로젝트.Form3.resources
